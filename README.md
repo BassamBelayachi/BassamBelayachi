@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BassamBelayachi
-- 👀 I’m interested in computers, cars, Formula 1, 
+- 👀 I’m interested in computers, cars, Formula 1, programming, America, One piece, Eminem, 
 - 🌱 I’m currently learning computer science, HTML, CSS, PHP, C++, JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
